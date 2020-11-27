@@ -24,7 +24,7 @@ body{
 	font-family:verdana; 
 	color:#604020;
 	text-align:center; 
-	font-size:50px;
+	font-size:30px;
 	padding: 4.75em;
 }
 
@@ -41,28 +41,30 @@ a{
 	font-family: sans-serif;
 
 }
+
 a:hover{
 	color:red;
 }
+
 a:active{
 	color:green;
 }
 
+
 }
+
 .quotation{
 	font-size:150%; 
 	
 	color:#4b351b;
 }
+
 .container{
 	width:60%;
 	margin:auto;
 }
-.col-lg-12{
-	
-	
-	
 
+.col-lg-12{
 	padding-right: 45px;
 	padding-left: 25px;
 
