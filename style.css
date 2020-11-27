@@ -10,7 +10,7 @@ body{
 
 
 .img{
-	background-image:url("images/backgrnd.jpg");
+	background-image:url("backgrnd.jpg");
 	opacity: 0.7;
 	width: 100%;
 }
